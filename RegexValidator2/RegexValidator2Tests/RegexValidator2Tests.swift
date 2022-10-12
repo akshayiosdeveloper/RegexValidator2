@@ -28,6 +28,10 @@ final class RegexValidator2Tests: XCTestCase {
     func testExample3() throws {
         XCTAssertEqual(10+10, 20)
     }
+    
+    func testExample5() throws {
+        XCTAssertEqual(10+11, 20)
+    }
 
 
 }
