@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "13.0"
 
 
-  spec.source       = { :git => "https://github.com/akshayiosdeveloper/RegexValidator2.git", :tag => "#{spec.version.to_s}" }
+  spec.source       = { :git => "https://github.com/akshayiosdeveloper/RegexValidator2.git", :tag => spec.version.to_s }
 
 
   spec.source_files  = "RegexValidator2/**/*.{swift}"
